@@ -1,0 +1,20 @@
+.hero {
+  .navbar.is-white {
+    background-color: #fff !important;
+    transition: backgroud 1s;
+  }
+}
+#currencies{
+    background-color: #0bb634;
+    color: #fff!important;
+    .container {
+        background-image: url(../images/map2.png);
+    }
+}
+#footer{
+    background-image: url(../images/footer-bg.png);
+}
+.icon.is-xlarge{
+    width: 4rem;
+    height: 4rem;
+}

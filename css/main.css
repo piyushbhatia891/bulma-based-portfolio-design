@@ -6975,3 +6975,20 @@ label.panel-block {
 .footer {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
+
+.hero .navbar.is-white {
+  background-color: #fff !important;
+  transition: backgroud 1s; }
+
+#currencies {
+  background-color: #0bb634;
+  color: #fff !important; }
+  #currencies .container {
+    background-image: url(../images/map2.png); }
+
+#footer {
+  background-image: url(../images/footer-bg.png); }
+
+.icon.is-xlarge {
+  width: 4rem;
+  height: 4rem; }
